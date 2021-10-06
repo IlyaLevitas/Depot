@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Train>
+    <Car type="passenger">
+        <Type>Coach car</Type>
+        <seatsAmount>60</seatsAmount>
+    </Car>
+    <Car type="passenger">
+        <Type>Sleeper car</Type>
+        <seatsAmount>32</seatsAmount>
+    </Car>
+    <Car type="passenger">
+        <Type>Business car</Type>
+        <seatsAmount>20</seatsAmount>
+    </Car>
+    <Car type="freight">
+        <Type>Boxcar</Type>
+        <liftingCapacity>70</liftingCapacity>
+    </Car>
+    <Car type="freight">
+        <Type>CargoBeamer</Type>
+        <liftingCapacity>30</liftingCapacity>
+    </Car>
+    <Car type="freight">
+        <Type>Tank car</Type>
+        <liftingCapacity>70</liftingCapacity>
+    </Car>
+</Train>
